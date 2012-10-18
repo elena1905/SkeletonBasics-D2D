@@ -1,0 +1,22 @@
+﻿Build started 2012/10/18 21:32:00.
+     1>Project "E:\VisualStudio2010\Kinect\SkeletonBasics-D2D\SkeletonBasics-D2D.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\SkeletonBasics-D2D.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\SkeletonBasics-D2D.unsuccessfulbuild".
+         Touching "Debug\SkeletonBasics-D2D.lastbuildstate".
+     1>Done Building Project "E:\VisualStudio2010\Kinect\SkeletonBasics-D2D\SkeletonBasics-D2D.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.27
